@@ -12,7 +12,7 @@ in a "Go" way.
 The other reason for this project is that I'd like to implement the
 specification natively in Go. There are some good reasons for doing
 this as related in
-[dave.cheney.net/2016/01/18/cgo-is-not-go]. However, if pressured I would say
+[dave.cheney.net/2016/01/18/cgo-is-not-go](). However, if pressured I would say
 `gopus` is a thin enough wrapper and does the job elegantly enough
 which brings me back to the above -- this is a mostly a learning
 experience.
